@@ -1,0 +1,1 @@
+export type IChildren = JSX.Element | JSX.Element[] | string;
